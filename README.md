@@ -1,4 +1,4 @@
-# mask-youself [![Build Status](https://travis-ci.org/jt3k/mask-youself.svg?branch=master)](https://travis-ci.org/jt3k/mask-youself)
+# mask-yourself [![Build Status](https://travis-ci.org/jt3k/mask-yourself.svg?branch=master)](https://travis-ci.org/jt3k/mask-yourself)
 
 > tiny mask for inputs
 
